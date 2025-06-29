@@ -1,0 +1,11 @@
+{
+  "name": "Phoinikas",
+  "symbol": "PHX",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Phoinikas (PHX) είναι ένα ελληνικό ψηφιακό νόμισμα με στόχο την εθνική νομισματική ανεξαρτησία.",
+  "website": "https://phoinikas.gr",
+  "explorer": "https://etherscan.io/token/0x96E79Fae4dC359CbbAaC6Db218E4ea2Fc077f520",
+  "status": "active",
+  "id": "0x96E79Fae4dC359CbbAaC6Db218E4ea2Fc077f520"
+}
